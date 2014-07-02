@@ -1,4 +1,4 @@
 shinydemo
 ----------
 
-## Repo for hosting a Shiny app demo
+## Repo for hosting a Shiny app demo and a Slidify presentation to explain what it does.
